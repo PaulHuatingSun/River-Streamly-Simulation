@@ -110,7 +110,7 @@ You’ll see:
 ## ✨ Author
 
 Built as part of a project for **AI Engineering / MLOps coursework**.  
-Maintained by [Your Name or GitHub handle].
+Maintained by Huating Sun.
 
 ---
 
